@@ -78,4 +78,4 @@ function poopAlert() {
 
 };
 
-var interval = setInterval(function () { poopAlert(); }, 5000);
+var interval = setInterval(function () { poopAlert(); }, 20000);
